@@ -31,9 +31,3 @@ def get_book(book_id):
 @book_blueprint.route('/books', methods=['GET'])
 def get_books():
     return jsonify(books), 200
-
-class User:
-    def __init__(self, id, username, password):
-        self.id = id
-        self.username = username
-        self.password = password

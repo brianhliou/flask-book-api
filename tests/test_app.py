@@ -1,8 +1,6 @@
 import os
 import unittest
 from myapp import create_app
-from myapp.models.user import User
-from myapp.models.book import Book
 
 class MyAppTestCase(unittest.TestCase):
     
