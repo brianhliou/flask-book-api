@@ -1,7 +1,7 @@
 # flask-book-api
 
-![Screenshot 1](./resources/screenshot_1.jpg)
-![Screenshot 2](./resources/screenshot_2.jpg)
+![Screenshot 1](./demo/screenshot_1.jpg)
+![Screenshot 2](./demo/screenshot_2.jpg)
 
 
 Commands to start app on Windows:
